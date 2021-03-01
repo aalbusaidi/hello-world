@@ -1,2 +1,2 @@
 # hello-world
-temporary practice
+This is Adil, trying to gets hands-on GUI Git
